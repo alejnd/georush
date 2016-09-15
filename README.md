@@ -3,7 +3,8 @@ Execute vagrant up and vagrant ssh
 The script is located in the /root directoy 
 
 Usage:
-    ./georush <parms> 
+
+     ./georush <parms> 
 
 or 
 
